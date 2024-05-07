@@ -49,6 +49,7 @@
   <ItemGroup>
     <Compile Include="Scripts\Buttons.cs" />
     <Compile Include="Scripts\Collision.cs" />
+    <Compile Include="Scripts\Letters.cs" />
     <Compile Include="Scripts\Utilities\DeltaTime.cs" />
     <Compile Include="Scripts\Game.cs">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
